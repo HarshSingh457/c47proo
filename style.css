@@ -1,0 +1,26 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+/* 
+@font-face {
+  font-family: 'Varino Normal';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Varino Normal'), url('VarinonormalRegular-nRYg4.woff') format('woff');
+  }
+
+button{
+  width: 150px;
+  height: 40px;
+  font-size: 20px;
+  font-family: 'Varino Normal';
+  background: rgba(4, 250, 25, 0.6);
+  color: white;
+  border-color: rgba(0, 0, 0, 0.308);
+  cursor: pointer;
+} */
